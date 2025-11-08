@@ -1,0 +1,410 @@
+[
+  {
+    "name": "New Hampshire",
+    "number_of_wildfires": 139,
+    "number_of_acres_burned": 48,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 0.345323741
+  },
+  {
+    "name": "Maine",
+    "number_of_wildfires": 308,
+    "number_of_acres_burned": 116,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 0.376623377
+  },
+  {
+    "name": "Massachusetts",
+    "number_of_wildfires": "1,116",
+    "number_of_acres_burned": 545,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 0.488351254
+  },
+  {
+    "name": "Rhode Island",
+    "number_of_wildfires": 30,
+    "number_of_acres_burned": 27,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 0.9
+  },
+  {
+    "name": "Wisconsin",
+    "number_of_wildfires": 735,
+    "number_of_acres_burned": 719,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 0.978231293
+  },
+  {
+    "name": "Delaware",
+    "number_of_wildfires": -1,
+    "number_of_acres_burned": -1,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 1
+  },
+  {
+    "name": "New Jersey",
+    "number_of_wildfires": 708,
+    "number_of_acres_burned": 794,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 1.121468927
+  },
+  {
+    "name": "Connecticut",
+    "number_of_wildfires": 196,
+    "number_of_acres_burned": 244,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 1.244897959
+  },
+  {
+    "name": "Vermont",
+    "number_of_wildfires": 11,
+    "number_of_acres_burned": 14,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 1.272727273
+  },
+  {
+    "name": "Pennsylvania",
+    "number_of_wildfires": 204,
+    "number_of_acres_burned": 636,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 3.117647059
+  },
+  {
+    "name": "Iowa",
+    "number_of_wildfires": 561,
+    "number_of_acres_burned": "2,145",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 3.823529412
+  },
+  {
+    "name": "Ohio",
+    "number_of_wildfires": 246,
+    "number_of_acres_burned": "1,203",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 4.890243902
+  },
+  {
+    "name": "New York",
+    "number_of_wildfires": 47,
+    "number_of_acres_burned": 232,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 4.936170213
+  },
+  {
+    "name": "Michigan",
+    "number_of_wildfires": 322,
+    "number_of_acres_burned": "1,865",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 5.791925466
+  },
+  {
+    "name": "South Carolina",
+    "number_of_wildfires": "2,703",
+    "number_of_acres_burned": "16,141",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 5.971513134
+  },
+  {
+    "name": "West Virginia",
+    "number_of_wildfires": 342,
+    "number_of_acres_burned": "2,680",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 7.83625731
+  },
+  {
+    "name": "North Dakota",
+    "number_of_wildfires": 353,
+    "number_of_acres_burned": "2,862",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 8.107648725
+  },
+  {
+    "name": "Tennessee",
+    "number_of_wildfires": "1,170",
+    "number_of_acres_burned": "13,812",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 11.80512821
+  },
+  {
+    "name": "California",
+    "number_of_wildfires": "7,989",
+    "number_of_acres_burned": "126,854",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 15.87858305
+  },
+  {
+    "name": "Louisiana",
+    "number_of_wildfires": "3,079",
+    "number_of_acres_burned": "52,763",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 17.13640792
+  },
+  {
+    "name": "Washington",
+    "number_of_wildfires": 993,
+    "number_of_acres_burned": "17,480",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 17.60322256
+  },
+  {
+    "name": "Georgia",
+    "number_of_wildfires": "8,387",
+    "number_of_acres_burned": "149,222",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 17.79205914
+  },
+  {
+    "name": "Mississippi",
+    "number_of_wildfires": "2,341",
+    "number_of_acres_burned": "42,036",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 17.95642888
+  },
+  {
+    "name": "Indiana",
+    "number_of_wildfires": 27,
+    "number_of_acres_burned": 530,
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 19.62962963
+  },
+  {
+    "name": "Missouri",
+    "number_of_wildfires": "2,732",
+    "number_of_acres_burned": "55,395",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 20.27635432
+  },
+  {
+    "name": "Arkansas",
+    "number_of_wildfires": "2,627",
+    "number_of_acres_burned": "54,032",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 20.56794823
+  },
+  {
+    "name": "North Carolina",
+    "number_of_wildfires": "5,279",
+    "number_of_acres_burned": "119,482",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 22.63345331
+  },
+  {
+    "name": "Alabama",
+    "number_of_wildfires": "3,073",
+    "number_of_acres_burned": "71,311",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 23.20566222
+  },
+  {
+    "name": "Kentucky",
+    "number_of_wildfires": "1,040",
+    "number_of_acres_burned": "24,961",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 24.00096154
+  },
+  {
+    "name": "Virginia",
+    "number_of_wildfires": 831,
+    "number_of_acres_burned": "20,114",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 24.2045728
+  },
+  {
+    "name": "Illinois",
+    "number_of_wildfires": 62,
+    "number_of_acres_burned": "2,019",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 32.56451613
+  },
+  {
+    "name": "Utah",
+    "number_of_wildfires": "1,102",
+    "number_of_acres_burned": "62,783",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 56.97186933
+  },
+  {
+    "name": "Florida",
+    "number_of_wildfires": "5,102",
+    "number_of_acres_burned": "299,991",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 58.79870639
+  },
+  {
+    "name": "Maryland",
+    "number_of_wildfires": 131,
+    "number_of_acres_burned": "8,310",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 63.4351145
+  },
+  {
+    "name": "South Dakota",
+    "number_of_wildfires": "1,248",
+    "number_of_acres_burned": "97,230",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 77.90865385
+  },
+  {
+    "name": "Minnesota",
+    "number_of_wildfires": "1,238",
+    "number_of_acres_burned": "135,650",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 109.5718901
+  },
+  {
+    "name": "Oklahoma",
+    "number_of_wildfires": "2,486",
+    "number_of_acres_burned": "293,381",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 118.0132743
+  },
+  {
+    "name": "Colorado",
+    "number_of_wildfires": "1,286",
+    "number_of_acres_burned": "161,167",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 125.3242613
+  },
+  {
+    "name": "Montana",
+    "number_of_wildfires": "1,335",
+    "number_of_acres_burned": "168,010",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 125.8501873
+  },
+  {
+    "name": "Wyoming",
+    "number_of_wildfires": 680,
+    "number_of_acres_burned": "135,878",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 199.8205882
+  },
+  {
+    "name": "Oregon",
+    "number_of_wildfires": "1,151",
+    "number_of_acres_burned": "285,712",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 248.2293658
+  },
+  {
+    "name": "Idaho",
+    "number_of_wildfires": "1,094",
+    "number_of_acres_burned": "384,103",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 351.0996344
+  },
+  {
+    "name": "Nebraska",
+    "number_of_wildfires": 80,
+    "number_of_acres_burned": "29,643",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 370.5375
+  },
+  {
+    "name": "Arizona",
+    "number_of_wildfires": "1,988",
+    "number_of_acres_burned": "1,016,428",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 511.2816901
+  },
+  {
+    "name": "Nevada",
+    "number_of_wildfires": 817,
+    "number_of_acres_burned": "424,170",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 519.1799266
+  },
+  {
+    "name": "Alaska",
+    "number_of_wildfires": 515,
+    "number_of_acres_burned": "293,018",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 568.9669903
+  },
+  {
+    "name": "New Mexico",
+    "number_of_wildfires": "1,875",
+    "number_of_acres_burned": "1,286,487",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 686.1264
+  },
+  {
+    "name": "Hawaii",
+    "number_of_wildfires": 3,
+    "number_of_acres_burned": "2,178",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 726
+  },
+  {
+    "name": "Texas",
+    "number_of_wildfires": "3,470",
+    "number_of_acres_burned": "2,722,623",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 784.6175793
+  },
+  {
+    "name": "Kansas",
+    "number_of_wildfires": 99,
+    "number_of_acres_burned": "111,128",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": 1122.505051
+  },
+  {
+    "name": "",
+    "number_of_wildfires": "",
+    "number_of_acres_burned": "",
+    "": "",
+    "__1": "",
+    "acres_burned_per_fire": ""
+  }
+]
